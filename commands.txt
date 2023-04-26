@@ -1,0 +1,38 @@
+List of commands:
+
+about yourself/you/ who are you
+developer/ who created/developed you
+tell me your powers/ help/ features
+
+hi/hello/good morning...
+what/when/who/when/where (wikipedia)
+logout/shutdown/restart
+create a reminder list/ reminder
+remember
+screenshot
+cpu and battery/battery
+joke
+play song 
+search ----google/youtube
+download ---- from youtube
+weather/temperature
+------distance---- city1 and city.
+bye bye jarvis/bye/ i am done/ nothing.
+
+
+
+Questions: 
+
+Tell me about yourself
+Who created you.
+tell me you powers
+tell me weather.
+What is the distance b/w Delhi and Chandigarh.
+who is ShahRukh Khan.
+play song -> &wait
+search best python courses on google
+bye bye jarvis 
+
+
+
+
